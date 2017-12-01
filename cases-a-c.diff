@@ -1,0 +1,7 @@
+34c34,37
+<   ...rect,
+---
+>   x: rect.x,
+>   y: rect.y,
+>   width: rect.width,
+>   height: rect.height,

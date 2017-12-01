@@ -1,0 +1,14 @@
+{
+  "name": "flow-bug",
+  "version": "1.0.0",
+  "description": "lowest common denominator for some flow bug",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "author": "Lyle Underwood <lyleunderwood@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.60.0"
+  }
+}
