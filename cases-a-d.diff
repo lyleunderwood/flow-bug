@@ -1,0 +1,7 @@
+14a15,16
+> export type HackRect = UsefulRect & Rect;
+> 
+25c27
+< const rect: UsefulRect = {
+---
+> const rect: HackRect = {
